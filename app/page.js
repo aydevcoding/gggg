@@ -1,6 +1,12 @@
 export default function Home() {
   return (
-    <main style={{background:"#0F3D3E",color:"white",minHeight:"100vh",textAlign:"center",padding:"40px"}}>
+    <main style={{
+      background:"#0F3D3E",
+      color:"white",
+      minHeight:"100vh",
+      textAlign:"center",
+      padding:"40px"
+    }}>
 
       <div style={{
         width:"120px",
